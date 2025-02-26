@@ -17,6 +17,7 @@ Scope: Any chat platform, professional or private
 7. Amibiguous emojis: 🍆 of 🍑 or combo's: 🍑 🍆, ✊🏼💦😝, 🚪🏃‍♀️💨
 8. Flooding: send more than 3 texts without letting other people respond
 9. Empty-reference: Saying read 'above' or somewhere vague and consider a genuine question properly answered by shaming the requester
+10. Abriviation abuse: Overusing acryonyms (I’m WFH today, so FYI, I’ll BRB after my OOO meeting with HR about PTO. Also, ETA on that PR?), dirty abriviations: WTF, FU, GTFO, or vague out of context: I'm AFK for a while. 
 
 ## Red flags
 1. Shaming
