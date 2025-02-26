@@ -27,4 +27,4 @@ Scope: Any chat platform, professional or private
 ## Do's
 
 - use of [conventional comments](https://conventionalcomments.org/)
-- use of [JOE, EARS, FACTS, NICE, BEDST, CALM, avoid GAPS](./en/JOE-EARS-FACTS-NICE-BEDST-CALM-GAPS.md)
+- use of [JOE, EARS, FACTS, NICE, BEDST, CALM, avoid GAPS](./en/JOE-EARS-FACTS-NICE-BEST-CALM-GAPS.md)
