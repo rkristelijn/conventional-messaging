@@ -17,6 +17,7 @@ Dit is een lijst van richtlijnen om de balans te vinden tussen efficiënte beric
 7. **Dubbelzinnige emoji’s**: 🍆 of 🍑 of combinaties zoals 🍑 🍆, ✊🏼💦😝, 🚪🏃‍♀️💨 – Kan verkeerd worden geïnterpreteerd.  
 8. **Flooding**: Meer dan 3 berichten achter elkaar sturen zonder de ander tijd te geven om te reageren – Vermijd onnodige spam.  
 9. **Lege verwijzingen**: Zeggen "lees hierboven" of vaag verwijzen zonder duidelijke uitleg – Dit komt neer op het beschaamd maken van de vrager in plaats van echt antwoord geven.  
+10. **Afkortingenmisbruik**: Overmatig gebruik van afkortingen (“Ik WFH vandaag, dus FYI, ik BRB na mijn OOO-meeting met HR over PTO. Ook, ETA op die PR?”), ongepaste afkortingen (WTF, FU, GTFO), of vaag en uit de context gehaald (“Ik ben AFK voor een tijdje.”).
 
 ## 🚩 Rode vlaggen
 
